@@ -6,8 +6,8 @@ const Footer = () => {
   return (
     <>
       <div className='footer fixed bottom-0 left-0 w-full z-50 '>
-        <div className='flex items-center justify-between lg:px-16 lg:py-8 px-3 py-2'>
-          <div className='flex  items-center gap-3 text-white'>
+        <div className='flex items-center justify-between lg:px-16 lg:py-8 px-3'>
+          <div className='flex items-center gap-3 text-white'>
             <img
               src={music}
               alt=''
